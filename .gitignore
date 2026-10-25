@@ -1,0 +1,13 @@
+# Données personnelles : ne jamais publier
+data/
+logs/
+rapports/
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
